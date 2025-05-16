@@ -1,0 +1,21 @@
+# 忽略文档和配置示例
+README.md
+*.example
+
+# 忽略版本控制相关文件
+.git/
+.gitignore
+
+# 忽略开发工具配置
+.vscode/
+.idea/
+*.pyc
+__pycache__/
+
+# 忽略测试文件
+tests/
+*.test.py
+
+# 忽略本地环境文件
+.env.local
+.env.*.local

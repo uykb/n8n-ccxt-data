@@ -3,8 +3,8 @@
 import asyncio
 import logging
 import os
-from mcp_python.mcp_server import MCPServer
-from mcp_python.mcp_tool_manager import MCPToolManager
+from mcp.server import MCPServer
+from mcp.tool_manager import MCPToolManager
 
 # 导入我们定义的 CCXT 工具
 # 假设 ccxt_tools.py 与 main.py 在同一目录下
