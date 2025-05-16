@@ -1,2 +1,2 @@
-mcp-python
+mcp_python
 ccxt
